@@ -16,7 +16,6 @@ HOME = gg.choice({
   
   if HOME == 1 then
   choice1 = gg.choice ({
-    "HACK SILVER" ,
     "OTHER" , nil , "HI DEAR HACKER") end
     if Choice 1 == 1 then
     prompt1 = gg.prompt ({
