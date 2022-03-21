@@ -7,9 +7,9 @@ gg.setVisble(false) end
 ---Function start()
 
 HOME = gg.choice({
-      "HACK GEMS"
-      "HACK COINS"
-      "XP HACK"
+      'HACK GEMS'
+      'HACK COINS'
+      'XP HACK'
       "EXIT"} nil, ("LibbyXD Plays PG3D ON YT")
       
 ------function 1()
